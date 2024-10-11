@@ -1,1 +1,1 @@
-# JavaScriptProject
+# Tic Tac Toe game
